@@ -1,114 +1,114 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				1,
-				-380
+				0,
+				0
 			],
+			"loop": false,
+			"fps": 6,
 			"anim": "singLEFT",
-			"fps": 6,
-			"name": "baba isleft",
-			"indices": []
+			"indices": [],
+			"name": "singLEFT"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-30,
-				-382
+				0,
+				0
 			],
+			"loop": false,
+			"fps": 6,
 			"anim": "singDOWN",
-			"fps": 6,
-			"name": "baba isdown",
-			"indices": []
+			"indices": [],
+			"name": "singDOWN"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-38,
-				-370
+				0,
+				0
 			],
+			"loop": false,
+			"fps": 6,
 			"anim": "singUP",
-			"fps": 6,
-			"name": "baba isup",
-			"indices": []
+			"indices": [],
+			"name": "singUP"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-45,
-				-383
+				0,
+				0
 			],
+			"loop": false,
+			"fps": 6,
 			"anim": "singRIGHT",
-			"fps": 6,
-			"name": "baba isright",
-			"indices": []
+			"indices": [],
+			"name": "singRIGHT"
 		},
 		{
-			"loop": true,
 			"offsets": [
-				-30,
-				-381
+				0,
+				0
 			],
+			"loop": true,
+			"fps": 6,
 			"anim": "idle-loop",
-			"fps": 6,
-			"name": "baba isstill",
-			"indices": []
+			"indices": [],
+			"name": "idle-loop"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-30,
-				-381
+				0,
+				0
 			],
+			"loop": false,
+			"fps": 6,
 			"anim": "idle",
-			"fps": 6,
-			"name": "baba isstill",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": true,
 			"offsets": [
-				1,
-				-380
+				0,
+				0
 			],
+			"loop": true,
+			"fps": 6,
 			"anim": "singLEFT-loop",
-			"fps": 6,
-			"name": "baba isleft",
-			"indices": []
+			"indices": [],
+			"name": "singLEFT-loop"
 		},
 		{
-			"loop": true,
 			"offsets": [
-				-38,
-				-370
+				0,
+				0
 			],
+			"loop": true,
+			"fps": 6,
 			"anim": "singUP-loop",
-			"fps": 6,
-			"name": "baba isup",
-			"indices": []
+			"indices": [],
+			"name": "singUP-loop"
 		},
 		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"offsets": [
-				-80,
-				-383
-			],
-			"anim": "hey",
 			"fps": 6,
-			"name": "baba isright",
-			"indices": []
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
 		},
 		{
-			"loop": true,
 			"offsets": [
-				-45,
-				-383
+				0,
+				0
 			],
-			"anim": "singRIGHT-loop",
+			"loop": true,
 			"fps": 6,
-			"name": "baba isright",
-			"indices": []
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "singRIGHT-loop"
 		}
 	],
 	"no_antialiasing": false,
@@ -120,9 +120,9 @@
 	"healthicon": "baba",
 	"flip_x": false,
 	"healthbar_colors": [
-		235,
-		235,
-		235
+		21,
+		61,
+		95
 	],
 	"camera_position": [
 		-140,
