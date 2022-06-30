@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="babaisfunkin.png"><SubTexture name="baba isstill0000" x="0" y="0" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isstill0001" x="256" y="0" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isstill0002" x="0" y="256" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isup0000" x="256" y="256" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isup0001" x="512" y="0" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isup0002" x="512" y="256" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isdown0000" x="0" y="512" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isdown0001" x="256" y="512" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isdown0002" x="512" y="512" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isleft0000" x="768" y="0" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isleft0001" x="768" y="256" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isleft0002" x="768" y="512" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isright0000" x="0" y="768" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isright0001" x="256" y="768" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="baba isright0002" x="512" y="768" width="256" height="256" frameX="0" frameY="0" frameWidth="256" frameHeight="256" />
+</TextureAtlas>

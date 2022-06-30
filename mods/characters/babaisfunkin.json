@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 6,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "idle-loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 6,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "singLEFT-loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 6,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "singUP-loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 6,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "singRIGHT-loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/babaisfunkin",
+	"position": [
+		0,
+		120
+	],
+	"healthicon": "baba",
+	"flip_x": false,
+	"healthbar_colors": [
+		21,
+		61,
+		95
+	],
+	"camera_position": [
+		-140,
+		380
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
